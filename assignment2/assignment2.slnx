@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="assignment2/assignment2.csproj" />
+  <Project Path="assignment4/assignment4.csproj" Id="fc68239a-50bc-4b67-90a5-c2a61bd64b5c" />
+  <Project Path="LoopingStatement/LoopingStatement.csproj" />
+</Solution>

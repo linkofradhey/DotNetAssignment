@@ -1,0 +1,63 @@
+# Build results
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# NuGet
+packages/
+*.nupkg
+
+# Logs
+*.log
+
+# Test Results
+TestResults/
+
+# Publish Output
+publish/
+
+# Azure
+*.publishsettings
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+
+# SQL Server
+*.mdf
+*.ldf
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+
+# Generated files
+Generated/
+
+# Coverage files
+coverage/
+*.coverage
+*.coveragexml
+
+# Environment files
+.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
