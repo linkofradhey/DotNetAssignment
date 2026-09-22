@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="assignment5/assignment5.csproj" />
+  <Project Path="CricketTeam/CricketTeam.csproj" />
 </Solution>

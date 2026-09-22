@@ -12,12 +12,12 @@ namespace assignment4
 
             int[][] scores =
             {
-                new int[] { 80, 85, 90 },      // Math - 3 tests
-                new int[] { 75, 78 },          // Science - 2 tests
-                new int[] { 88, 84, 79, 91 }   // English - 4 tests
+                new int[] { 80, 85, 90 },      
+                new int[] { 75, 78 },          
+                new int[] { 88, 84, 79, 91 }   
             };
 
-            for (int i = 0; i < subjects.Length; i++)
+            for (int i = 0; i < subjects.Length; i++)//x
             {
                 int total = 0;
 
@@ -25,7 +25,7 @@ namespace assignment4
 
                 Console.Write("Scores: ");
 
-                for (int j = 0; j < scores[i].Length; j++)
+                for (int j = 0; j < scores[i].Length; j++)//y
                 {
                     Console.Write(scores[i][j] + " ");
                     total += scores[i][j];
